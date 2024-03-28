@@ -28,10 +28,10 @@ function App() {
         </a>
  */}
       </div>
-      <h1>Vite By <b>Salis Bin Salman</b>
+      <h1>Vite By Cloud Fusion
       </h1>
       <div className="card">
-        <button onClick={() => setCount((count) => count + 4)}>
+        <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
         <p>
